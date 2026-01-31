@@ -7,13 +7,17 @@
 			"files": [
 				"C:/Users/GAME2/Documents/GitHub/GGJ_2026/Content/Inputs/Input_Down.uasset",
 				"C:/Users/GAME2/Documents/GitHub/GGJ_2026/Content/Inputs/Input_Left.uasset",
-				"C:/Users/GAME2/Documents/GitHub/GGJ_2026/Content/Inputs/Input_Rght.uasset",
 				"C:/Users/GAME2/Documents/GitHub/GGJ_2026/Content/Inputs/Input_Right.uasset",
 				"C:/Users/GAME2/Documents/GitHub/GGJ_2026/Content/Inputs/Input_Up.uasset",
 				"C:/Users/GAME2/Documents/GitHub/GGJ_2026/Content/Inputs/IMC_Player_Input.uasset",
 				"C:/Users/GAME2/Documents/GitHub/GGJ_2026/Content/Gamemode/Gamemode_01.uasset",
 				"C:/Users/GAME2/Documents/GitHub/GGJ_2026/Content/BP/Player.uasset",
-				"C:/Users/GAME2/Documents/GitHub/GGJ_2026/Content/Level/Lvl01.umap"
+				"C:/Users/GAME2/Documents/GitHub/GGJ_2026/Content/Level/Lvl01.umap",
+				"C:/Users/GAME2/Documents/GitHub/GGJ_2026/Content/BP/CablesDamage.uasset",
+				"C:/Users/GAME2/Documents/GitHub/GGJ_2026/Content/Interface/PlayerInterface.uasset",
+				"C:/Users/GAME2/Documents/GitHub/GGJ_2026/Content/BP/Checkpoint.uasset",
+				"C:/Users/GAME2/Documents/GitHub/GGJ_2026/Content/BP/FleursDamage.uasset",
+				"C:/Users/GAME2/Documents/GitHub/GGJ_2026/Content/Inputs/Input_Rght.uasset"
 			]
 		}
 	]
